@@ -4,7 +4,7 @@ Installation
 To install this application, clone this repository and navigate to the project directory:
 
 bash
-git clone https://github.com/SatyamAgarwal12345/REACT_todo.git
+git clone https://github.com/SatyamAgarwal12345/React-to-do-list-App
 
 cd react-todo-list
 Then install the required dependencies:
